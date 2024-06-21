@@ -10,7 +10,7 @@
 
 此网站的建设单纯基于机器的遍历构建。
 
-个人页：[su](/personal/su), [哎呦喂](/personal/哎呦喂)
+个人页：[su](/personal/su), [哎呦喂](/personal/哎呦喂), [alepha](/personal/alepha)
 
 组织页：[hcbbs](/org/hcbbs)
 
