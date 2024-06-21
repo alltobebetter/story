@@ -35,6 +35,7 @@
 | 聊天室历史书| Hack.Chat历史书 | https://github.com/Hiyoteam/ChatroomHistoryBook |
 | 苏淋（Su）| 编辑 | https://github.com/alltobebetter |
 | Cuper| 域名提供者* | 暂无 |
+| 404,sora,alepha,au,cmd以及我的所有朋友| 历史创作对象，精神支柱 | :) |
 | JsOrg| 域名提供者** | https://js.org/ |
 | Hcbbs| 引流站 | https://hcbbs.eu.org/ |
 | 所有贡献者 | 仓库更新 | 链接过多 |
