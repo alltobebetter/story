@@ -1,121 +1,70 @@
+# 前言
 
+**文字是有力量的，我一直这么认为。**
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+如果你第一次来这里，你可以阅读[README](/README.md)，并且向本项目贡献您自己的故事，无论是小说，您的个人介绍，你的组织您都可以编辑。我不能说这是一个维基，但是我在尽力把它变成维基。
 
-[Link to another page](./another-page.html).
+如果您不是第一次来这里，您可以继续阅读。
 
-There should be whitespace between paragraphs.
+此网站的建设单纯基于机器的遍历构建。
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+个人页：
 
-# Header 1
+组织页：
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+故事页：
 
-## Header 2
+您可以在这里提交您自己的故事！
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+注：一下是README内容，您可以不访问README而阅读内容。
 
-### Header 3
+## 设立原因
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+如果您了解我，您一定知道我是Hcbbs的创始人之一，我认为，一个社区的团结在于一个社区的历史，在这里，我希望任何人都可以将自己的故事来写到这里来，您可以启用Fork分支来提交您的更改。我希望任何人可以享受到自己的快乐，在网络上有一席之地。
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+## 实现
 
-#### Header 4
+您知道的，对于Hack.Chat是有一个成型的历史书，所以我不准备去竞争和干预，我们跟进聊天室历史书的内容，如果您觉得在这里阅读并不舒服，您可以去查看[历史书源项目](https://hiyoteam.github.io/ChatroomHistoryBook/)。
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+对于Note.ms，我们准备采用收集+个人提交+个人写作的方式来实现，也就是个人总结和多方采集数据。
 
-##### Header 5
+对于Hack.chat，我们不仅准备采用上述内容，我们也采用提交的方式来更新个人对于hc的评价，因此，我们会使故事书更加全面。
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+## 编辑细则
 
-###### Header 6
+首先我希望您了解GithubPages和Github的Fork以及PullRequest。
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+首先有一个Github账户。
 
-### There's a horizontal rule below this.
+创建您自己的故事或者您认为的故事，提交到本项目，PullRequest。
 
-* * *
+等待通过。
 
-### Here is an unordered list:
+完成。
 
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
+## 提交细则
 
-### And an ordered list:
+一般来说您的md文件不限制名称，也就是说您可以用任何名称来描述您的md文件。
 
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
+注意，个人页面请提交到https://github.com/alltobebetter/story/tree/master/personal，也就是personal文件夹内；
+组织页面提交到https://github.com/alltobebetter/story/tree/master/org；
+故事与其他提交到https://github.com/alltobebetter/story/tree/master/public；
+如果您有特殊需求请提交issue以讨论。
 
-### And a nested list:
+## 致谢
 
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
+| 名称 | 提供细目 | 链接 |
+| --- | --- | --- |
+| 聊天室历史书| Hack.Chat历史书 | https://github.com/Hiyoteam/ChatroomHistoryBook |
+| 苏淋（Su）| 编辑 | https://github.com/alltobebetter |
+| Cuper| 域名提供者* | 暂无 |
+| 404,sora,alepha,au,cmd以及我的所有朋友| 历史创作对象，精神支柱 | :) |
+| JsOrg| 域名提供者** | https://js.org/ |
+| Hcbbs| 引流站 | https://hcbbs.eu.org/ |
+| 所有贡献者 | 仓库更新 | 链接过多 |
+| Github| 空间提供 | https://github.com/ |
+| jekyll| 主题提供 |https://github.com/jekyll/jekyll|
 
-### Small image
+## 其他
 
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+项目遵循CC0 1.0 Universal，如有侵权请告知。
