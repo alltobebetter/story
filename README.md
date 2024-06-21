@@ -28,6 +28,11 @@
 
 一般来说您的md文件不限制名称，也就是说您可以用任何名称来描述您的md文件。
 
+注意，个人页面请提交到https://github.com/alltobebetter/story/tree/master/personal，也就是personal文件夹内；
+组织页面提交到https://github.com/alltobebetter/story/tree/master/org；
+故事与其他提交到https://github.com/alltobebetter/story/tree/master/public；
+如果您有特殊需求请提交issue以讨论。
+
 ## 致谢
 
 | 名称 | 提供细目 | 链接 |
