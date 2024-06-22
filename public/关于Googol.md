@@ -78,7 +78,7 @@ Googol 信以为真，前往 hc 的 programming 频道通过报告不存在的�
 
 ## SheepRealms 补充
 
-<blockquote>作为隔壁某些百科网站的受害者，我不得不过来补充一些关于 Gongxiang01（另有马甲“Googol”、“googologyer”等）的“光荣事迹”：
+作为隔壁某些百科网站的受害者，我不得不过来补充一些关于 Gongxiang01（另有马甲“Googol”、“googologyer”等）的“光荣事迹”：
 
 * 在 Googology Wiki 因插入虚假信息和持续忽略警告而被封禁。(2022-11-01)
 * 在 Write on paper Wiki 因冒充他人、聊天室刷屏、傀儡行为 [注 1] 而被封禁。(2023-10-06)
@@ -107,7 +107,7 @@ Googol 信以为真，前往 hc 的 programming 频道通过报告不存在的�
 
 值得一提的是，他在 Wikipedia 上甚至被人当成了 AI。
 
-<blockquote>“我相信管理员会正义地处理这次提报。”</blockquote>
+“我相信管理员会正义地处理这次提报。”
 
 —— Gongxiang01 在 Wikipedia 上评论于对其的举报，随后被其亲自邀请的管理员封禁。
 
@@ -131,13 +131,13 @@ Googol 信以为真，前往 hc 的 programming 频道通过报告不存在的�
 
 至于为什么我们知道他用的是虚拟手机号...... 信他用英国手机号不如信我是秦始皇。
 
-另外，如果当事人（毫无悬念地）不幸看到了这条消息，告诉你个好消息，NGA 的明日方舟版块上的大伙们都认为你的英语水平的上升空间有待提高（备注：这句话没有语病，本人充分理解中文的语法规则并且通过了图灵测试，这句话充分表达了本人的观点），并且他们通过你的英语水平认为你才是那个“不好好学习，荒废学业”的人，表演了一出非常精彩的以第三人称自称的自我介绍。上面那段话我已经在 NGA 上发过一次了，有 126 人对这条评测表示欢乐。希望你早日与运营商解决黑客入侵问题，use your very good English to speak，因为你这个运营商可能不会说中文。不过你也许不得不使用英文，因为根据近期的一项私有研究表明，你中文的表达水平正在受到挑战，这可能是因为你那独特的对象声明方式破坏了你的中文模块。啊？什么对象声明？就是你那个“声明自己不是什么”的切割式对象声明方式。最后，有个被你视为敌人的人联系上了我，跟我透露了很多有趣的事情。他托我给你带句话：“你的 DDoS 反击很有意思，只可惜没打对人。并且你会的东西我也会。”</blockquote>
+另外，如果当事人（毫无悬念地）不幸看到了这条消息，告诉你个好消息，NGA 的明日方舟版块上的大伙们都认为你的英语水平的上升空间有待提高（备注：这句话没有语病，本人充分理解中文的语法规则并且通过了图灵测试，这句话充分表达了本人的观点），并且他们通过你的英语水平认为你才是那个“不好好学习，荒废学业”的人，表演了一出非常精彩的以第三人称自称的自我介绍。上面那段话我已经在 NGA 上发过一次了，有 126 人对这条评测表示欢乐。希望你早日与运营商解决黑客入侵问题，use your very good English to speak，因为你这个运营商可能不会说中文。不过你也许不得不使用英文，因为根据近期的一项私有研究表明，你中文的表达水平正在受到挑战，这可能是因为你那独特的对象声明方式破坏了你的中文模块。啊？什么对象声明？就是你那个“声明自己不是什么”的切割式对象声明方式。最后，有个被你视为敌人的人联系上了我，跟我透露了很多有趣的事情。他托我给你带句话：“你的 DDoS 反击很有意思，只可惜没打对人。并且你会的东西我也会。”
 
 ## “Github 担保”
 
 Googol 在 notewiki 写下了这句话：
 
-<blockquote>“声明：最近有 Hack.Chat 成员 MelonCmd 声称某个成员打广告提到“GitHub 担保”，但纯属虚假！Googol 没有声称“GitHub 担保”，也没有证据。且 GitHub Pages 不对本 wiki 进行担保。”</blockquote>
+“声明：最近有 Hack.Chat 成员 MelonCmd 声称某个成员打广告提到“GitHub 担保”，但纯属虚假！Googol 没有声称“GitHub 担保”，也没有证据。且 GitHub Pages 不对本 wiki 进行担保。”
 
 不得不说 Googol 的颠倒黑白能力不亚于创哥小木，Googol 打广告时确确实实是说了“Github”担保，我也提供了证据（见前面的那句 SQL 命令），后面的那句“且 GitHub Pages 不对本 wiki 进行担保”直接纯粹是把我之前说他的内容转述了一次（原内容：“神TM Github 担保，Github 可不会对 Github Pages 担保”）
 
@@ -152,7 +152,7 @@ Requesting...
 # 唯一正确消息wiki： https://notewiki.github.io github担保
 ```
 
-<blockquote>Googol 不出所料的说这是伪造的了 —— cmd1152</blockquote>
+Googol 不出所料的说这是伪造的了 —— cmd1152
 
 ## Googol 破坏页面被撤销
 
@@ -162,15 +162,15 @@ Googol 去 Cppreference 试图引导用户进行人身攻击，但是被撤销�
 * [主页的更改记录（91543）](https://zh.cppreference.com/mwiki/index.php?title=%E9%A6%96%E9%A1%B5&diff=prev&oldid=91543)
 * **[主页的更改记录（91552）](https://zh.cppreference.com/mwiki/index.php?title=%E9%A6%96%E9%A1%B5&diff=prev&oldid=91552)**
 
-<blockquote>最后一个（91552）的编辑记录 Googol 甚至用“所有撤销本用户编辑者将立即封禁”当用户名 —— cmd1152</blockquote>
+最后一个（91552）的编辑记录 Googol 甚至用“所有撤销本用户编辑者将立即封禁”当用户名 —— cmd1152
 
 ## 关于 Googol NoteWiki 内容的补充
 
 Googol 在所谓的“notewiki”写了下面这几段话
 
-<blockquote>MelonCmd 是在 HackChat 中 ?lounge 有协管机器人的权限。但是利用权限滥用职权，随意踢出 Googol，帮助 Rope 冒充 Googol。在 Note.ms 中添加声称“Gongxiang01”罪行的内容，其内容为丑化罪行，多为不实内容。甚至不知道 Googol 不是 Gongxiang01。
+MelonCmd 是在 HackChat 中 ?lounge 有协管机器人的权限。但是利用权限滥用职权，随意踢出 Googol，帮助 Rope 冒充 Googol。在 Note.ms 中添加声称“Gongxiang01”罪行的内容，其内容为丑化罪行，多为不实内容。甚至不知道 Googol 不是 Gongxiang01。
 
-补：SQL 语句证据错误，无法证明 MySQL 中数据库内容不是伪造的</blockquote>
+补：SQL 语句证据错误，无法证明 MySQL 中数据库内容不是伪造的
 
 首先第一条，我并没有滥用职权，而且也没有人冒充你，我踢出你是因为你进行刷屏（Googol 打广告使用一级标题，而且反复发送，而且还存在不实信息“github 担保”），而且你怎么证明 Googol 不是 Gongxiang01（*以其人之道还治其人之身*）
 
@@ -180,7 +180,7 @@ Googol 在所谓的“notewiki”写了下面这几段话
 
 Googol 在他的 notewiki 写道
 
-<blockquote>本 wiki 类似于 HC Wiki。但是权威性超过维基百科。</blockquote>
+本 wiki 类似于 HC Wiki。但是权威性超过维基百科。
 
 夏天发烧把脑子烧坏了？？？
 
