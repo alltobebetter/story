@@ -10,11 +10,13 @@
 
 此网站的建设单纯基于机器的遍历构建。
 
-个人页：[su](/personal/su), [哎呦喂](/personal/哎呦喂), [alepha](/personal/alepha)
+个人页：[alepha](/personal/alepha), [su](/personal/su), [哎呦喂](/personal/哎呦喂)
 
 组织页：[hcbbs](/org/hcbbs)
 
-故事页：[聊天室历史书](/public/聊天室历史书), [阿瓦岛记](/public/阿瓦岛记)
+故事页：[关于Googol](/public/关于Googol), [聊天室历史书](/public/聊天室历史书), [阿瓦岛记](/public/阿瓦岛记)
+
+知识集：[trip](/wiki/trip)
 
 您可以在这里提交您自己的故事！
 
