@@ -6,7 +6,8 @@ def generate_index():
     sections = {
         "personal": "个人页：",
         "org": "组织页：",
-        "public": "故事页："
+        "public": "故事页：",
+        "wiki": "知识集："
     }
 
     base_path = "/work/story/"  # 设置文件夹路径
