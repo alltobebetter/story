@@ -312,31 +312,31 @@ Googol 我告诉你，你不要得寸进尺了啊，先是破坏 0 号页面，�
 
 *本内容摘取自 [MCBBS Wiki 的 gongxiang01 的 “大闹 <del>天宫</del> Miraheze”](https://mcbbs.wiki/index.php?title=%E5%85%B6%E4%BB%96%E6%B0%B8%E4%B9%85%E5%B0%81%E7%A6%81%E7%94%A8%E6%88%B7/gongxiang01)*
 
-<blockquote>You speed is too slow!（访问速度太慢了！）</blockquote>
+You speed is too slow!（访问速度太慢了！）
 
 —— [Gongxiang01](https://meta.miraheze.org/wiki/User:Gongxiang01)
 
-<blockquote>We have asked several times to write a bit more about the scope of the wiki, but in stead, your "updates" have become shorter.（我们多次请求你多介绍一点你 Wiki 的内容，但你却反而把介绍更新的越来越短了。）</blockquote>
+We have asked several times to write a bit more about the scope of the wiki, but in stead, your "updates" have become shorter.（我们多次请求你多介绍一点你 Wiki 的内容，但你却反而把介绍更新的越来越短了。）
 
 —— [Rodejong](https://meta.miraheze.org/wiki/User:Rodejong)
 
-<blockquote>I not too understant for English! and it is 争议的, writed. I updates not shorter, any change is adding many words. （我不很里解英语！ 并且是有争议的，写了我更新不更短，任何更改都加了很多字。）</blockquote>
+I not too understant for English! and it is 争议的, writed. I updates not shorter, any change is adding many words. （我不很里解英语！ 并且是有争议的，写了我更新不更短，任何更改都加了很多字。）
 
 —— [Gongxiang01](https://meta.miraheze.org/wiki/User:Gongxiang01)
 
-<blockquote>To me this sounds like an anti-Western Tech Wiki. We don't allow such wiki's per our Content Policy. - This is my final decision. Please do not reopen this request.（对我来说，这看上去很像一个反对西方科技的 Wiki。我们的内容政策并不允许此类 Wiki。- 这是我最终的决定了。请不要重启这个申请。）</blockquote>
+To me this sounds like an anti-Western Tech Wiki. We don't allow such wiki's per our Content Policy. - This is my final decision. Please do not reopen this request.（对我来说，这看上去很像一个反对西方科技的 Wiki。我们的内容政策并不允许此类 Wiki。- 这是我最终的决定了。请不要重启这个申请。）
 
 —— [Rodejong](https://meta.miraheze.org/wiki/User:Rodejong)
 
-<blockquote>NOT. It's not.（不！并不是。）</blockquote>
+NOT. It's not.（不！并不是。）
 
 —— [Gongxiang01](https://meta.miraheze.org/wiki/User:Gongxiang01)
 
-<blockquote>that's record wiki, not abusive wiki!!!!!!!!!!!!!!!!（那是记录 Wiki，不是诽谤性 Wiki！！！）</blockquote>
+that's record wiki, not abusive wiki!!!!!!!!!!!!!!!!（那是记录 Wiki，不是诽谤性 Wiki！！！）
 
 —— [Gongxiang01](https://meta.miraheze.org/wiki/User:Gongxiang01)
 
-<blockquote>You knowledge its unknown!（你 知识 它是 未知的！）</blockquote>
+You knowledge its unknown!（你 知识 它是 未知的！）
 
 —— [Gongxiang01](https://meta.miraheze.org/wiki/User:Gongxiang01)
 
