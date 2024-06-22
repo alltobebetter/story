@@ -16,7 +16,7 @@
 
 故事页：[关于Googol](/public/关于Googol), [聊天室历史书](/public/聊天室历史书), [阿瓦岛记](/public/阿瓦岛记)
 
-知识集：[trip](/wiki/trip)
+知识集：[Notems总览](/wiki/Notems总览),[hackchat总览](/wiki/hackchat总览), [trip](/wiki/trip)
 
 您可以在这里提交您自己的故事！
 
