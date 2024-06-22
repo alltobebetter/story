@@ -1,6 +1,6 @@
 # 关于 Googol...
 
-部分内容需要权限查看，复制凭据后点击验证权限按钮验证凭据。但是您在本站是无法进行验证的，我们建议您查看原作者[文章](https://cmd1152.github.io/googol/)。本文已经过原作者授权。
+部分内容需要权限查看，复制凭据后点击验证权限按钮验证凭据。但是您在本站是无法进行验证的，我们建议您查看原作者[文章](https://cmd1152.github.io/googol/)。本文已经过原作者授权。文章一切观点与本站无关。
 
 
 **<del>我会尽量使用客观的语言描述 Googol，但是可能依然存在个人观点。</del>操你妈，我管nm客不客观，我急了，以下内容按时间顺序排序**
@@ -344,7 +344,7 @@ Googol 我告诉你，你不要得寸进尺了啊，先是破坏 0 号页面，�
 
 Googol 在 NoteBBS 的 [这里](https://note.freeflarum.com/d/456-%E4%BB%A5%E5%85%B6%E4%BA%BA%E4%B9%8B%E9%81%93%E8%BF%98%E6%B2%BB%E5%85%B6%E4%BA%BA%E4%B9%8B%E8%BA%AB%E6%9D%A5%E7%9C%8B%E7%9C%8B-meloncmd-%E5%9C%A8-hc-%E7%9A%84%E6%97%A0%E8%80%BB) 写道
 
-<blockquote><img src="./pkBupUP.png" /></blockquote>
+![Googol](https://i.gyazo.com/7a404ca5e8e8a6430198febbe1379487.png "Googol")
 
 先不说 Googol 压根不会编写 hc 机器人，然后我什么时候有 HC Wiki 了？
 
