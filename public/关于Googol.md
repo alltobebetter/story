@@ -223,14 +223,14 @@ Googol 这下怎么办？而且 MCBBS Wiki 也写了，绵羊领域（一位 MCB
 
 导致大量页面丢失，被覆盖成了下面的样子
 
-<blockquote>```
+```
 本页面由于<原因>，故 ProtectNote 目前保护这个页面
 ————————————————新闻——————————————
 ProtectNote 正在邀请您加入我们！前往：https://note.freeflarum.com/d/325-protectnote%E7%BB%84%E7%BB%87%E4%BB%8B%E7%BB%8D%E5%8F%8A%E5%8A%A0%E5%85%A5/7
 <或者其他新闻>
 ————————————————正文——————————————
 <原页面内容>
-```</blockquote>
+```
 
 我没写错，原来的内容变成了 `<原页面内容>`，然后他这个原因就是 `<原因>`，咋的，模板字符串符号写错了是吧，那也用不着中文变量啊？
 
@@ -260,11 +260,11 @@ Googol 在他的 NoteWiki 上写道
 
 现在，又开始覆写 note.ms/0 页面，写了这些话
 
-<blockquote>MelonCmd 你妈死了！<p></blockquote>
+MelonCmd 你妈死了！
 
 让我预言一下，Googol 肯定会说
 
-<blockquote>你没有证据证明是 Googol 做的</blockquote>
+你没有证据证明是 Googol 做的
 
 但是这个页面对谁最不利，是谁天天删，我就不多说了，各位都知道
 
@@ -274,7 +274,7 @@ Googol 在他的 NoteWiki 上写道
 
 Googol 在 NoteBBS 的 [这篇](https://note.freeflarum.com/d/443-4n0n4me-%E7%BB%9D%E5%AF%B9%E4%B8%8D%E6%98%AF-404) 帖子写道
 
-<blockquote>除非 [https://hcwiki.github.io](https://hcwiki.github.io) 的首页加上一个“4n0n4me 是 404”</blockquote>
+除非 [https://hcwiki.github.io](https://hcwiki.github.io) 的首页加上一个“4n0n4me 是 404”
 
 我也懒得跟一个傻子争，所以索性没有 pr
 
@@ -304,7 +304,7 @@ HC++ 被墙是一个巨大的笑话，hc++ 就是一个前端客户端，你甚�
 
 Googol 写道
 
-<blockquote>/chating，被 Chat Chating Club 覆盖为未经授权的聊天室。其实支援建设是可以的。</blockquote>
+/chating，被 Chat Chating Club 覆盖为未经授权的聊天室。其实支援建设是可以的。
 
 Googol 我告诉你，你不要得寸进尺了啊，先是破坏 0 号页面，然后又破坏 /chating，原来我关了 cmdSafe 后这里突然这么乱
 
